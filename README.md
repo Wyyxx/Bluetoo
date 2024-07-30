@@ -1,4 +1,4 @@
-# programabluetooth
+# bluetooth
 
 Programa de conexión bluetooth con IoT
 
